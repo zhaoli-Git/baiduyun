@@ -1,0 +1,13 @@
+.download-ico,.share-ico,.move-ico,.rename-ico,.delete-ico,.newfile-ico{
+	overflow: hidden;
+	float:left;
+}
+.update-ico,.user-more,.logo{
+	overflow: hidden;
+}
+.download-group{
+	float:left;
+}
+.download-group{
+	display: inline;
+}
